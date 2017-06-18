@@ -6,7 +6,7 @@ title: {{ site.name }}
     <div class="posts">
       {% for post in site.posts %}
       <div>
-        <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a> &mdash; {{ post.date | date_to_string }}</h1>
+        <h1>{{ post.date | date_to_string }} <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
         {{ post.content }}
       </div>
       {% endfor %}
