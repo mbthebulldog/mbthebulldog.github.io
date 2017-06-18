@@ -1,2 +1,2 @@
 # mbthebulldog.github.io
-My persoanl github page
+My personal github page
