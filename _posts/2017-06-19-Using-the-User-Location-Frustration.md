@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Using the User: Location Frustration
+title: Using the User (Location Frustration)
 date: 2017-06-19
 ---
 This latest challenge was much like the prior. To catch you up (on what I haven't said yet), The first intermediate front-end development project on [freeCodeCamp](https://www.freecodecamp.com/challenges/build-a-random-quote-machine) had to do with building a webpage (from scratch) which would utilize the API of some JSON databank of quotes to pull one quote at random when the user clicks a button. I seem to have a flair for the dramatic, or at least the almost-funny, so I had a good time designing a webpage replete with mystery and color, small though it be.
